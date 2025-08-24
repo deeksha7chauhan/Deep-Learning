@@ -1,3 +1,5 @@
+<img width="728" height="674" alt="image" src="https://github.com/user-attachments/assets/fbf91ea6-c522-46cc-a823-03a2d82db4a9" />
+
 Transformers>> Deep Learning >> Software
 ### For what all algorithms feature Scaling is required?
 ANN, Linear Regex, Logistic Regex, KNN,  KMeans
@@ -35,6 +37,8 @@ This means every neuron receives a weighted sum of all the inputs, applies an ac
 ### CNN is an Artificial Neural Network (ANN) widely used for analysing images can be used for other data anaysis and classification problems.
 CNN is an ANN which has some type of specialization for being able to find or pick out patterns,which makes them suitable for image analysis. 
 - CNN has hidden layers called as convolutional layer.
+<img width="898" height="293" alt="image" src="https://github.com/user-attachments/assets/025b26b0-88f0-42ba-aa0d-19855e67b4db" />
+
 - ### convolutional layers do?
     they receives input and tranform the input in some way and outputs that input to next layers, with convolutional layer this transformation is a convolutional operation.
     - are able to detect patterns in the images.
