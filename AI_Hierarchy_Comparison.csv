@@ -1,0 +1,12 @@
+Branch,Goal,Techniques,Applications
+Artificial Intelligence (AI),Broad field: create machines that mimic human intelligence,"Rule-based systems, ML, DL, planning, search","Robotics, chatbots, recommendation systems, vision, healthcare"
+Machine Learning (ML),Enable systems to learn patterns from data and improve over time,"Regression, classification, clustering, supervised/unsupervised learning","Fraud detection, recommendation, demand forecasting"
+Deep Learning (DL),Learn hierarchical representations of data using neural networks,"ANNs, CNNs, RNNs, transformers","Computer vision, NLP, speech recognition, autonomous driving"
+Artificial Neural Networks (ANN),Mimic the brain’s neurons for pattern recognition,Feed-forward/backpropagation networks,"Basic pattern recognition, forecasting, classification"
+Convolutional Neural Networks (CNN),"Process grid-like data (e.g., images, video) using convolutional filters","Convolutions, pooling, deep CNN architectures (ResNet, VGG)","Image recognition, medical imaging, self-driving cars"
+Large Language Models (LLMs),Understand and generate human-like language at scale,"Transformers (GPT, BERT), attention mechanisms","Chatbots, translation, summarization, code generation"
+Retrieval-Augmented Generation (RAG),Enhance LLMs with external knowledge bases for factuality,LLM + Vector databases + Retrieval pipelines,"Enterprise search, question answering, legal/medical assistants"
+Generative AI (GenAI),"Generate new content (text, images, audio, video, code)","GANs, VAEs, Diffusion models, LLMs","Image generation, deepfakes, music, design, writing"
+Reinforcement Learning (RL),Learn optimal actions through trial-and-error with rewards,"Q-learning, policy gradients, actor-critic methods","Game AI, robotics, autonomous systems"
+Symbolic AI / Expert Systems,"Reason using predefined rules, logic, and symbolic knowledge","If-then rules, decision trees, knowledge graphs","Expert systems (medicine, finance), theorem proving"
+Agentic AI,"Autonomous AI that plans, reasons, and acts in dynamic environments",LLMs + RL + memory + tools + planning frameworks,"AI agents (AutoGPT, Devin), autonomous research assistants, workflow automation"
