@@ -32,7 +32,13 @@ This means every neuron receives a weighted sum of all the inputs, applies an ac
 ### Activation layer 
 
 
-### CNN 
+### CNN is an Artificial Neural Network (ANN) widely used for analysing images can be used for other data anaysis and classification problems.
+CNN is an ANN which has some type of specialization for being able to find or pick out patterns,which makes them suitable for image analysis. 
+- CNN has hidden layers called as convolutional layer.
+- ### convolutional layers do?
+    they receives input and tranform the input in some way and outputs that input to next layers, with convolutional layer this transformation is a convolutional operation.
+    - are able to detect patterns in the images.
+       - with each convolutional layer we need to specify the number of filters it has, it is a small  matrix where we define number of rows and columns, values in the matrix has random numbers
 Image is either B&W or RGB
 in B&W images there is a single channel onl with grids each pixel is ranging between 0-255 0-black 255-white
 and in RGB there are 3 channels R, G, B
