@@ -50,3 +50,12 @@ and in RGB there are 3 channels R, G, B
 example:-
 we have a image which will be passed through a filte and we will get a output 
 1stly we wil try to make the pixel value between 0&1 if they are not already by % by 255 } ### Process is Min-Max Scalling!
+
+### Keras:- shortcut toolkit
+- high Level DL API.
+- designed to make building and training neural networks simple, fast, and user-friendly.
+- Written in Python.
+- runs on top of lower-level frameworks like TensorFlow, JAX, or PyTorch.
+- supports Sequential (stacked) and Functional (complex graphs) models.
+- Runs on GPU/TPU with TensorFlow backend → faster training
+
