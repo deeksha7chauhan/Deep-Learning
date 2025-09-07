@@ -1,3 +1,7 @@
+### Basic Feed Forward NN Cal with Sigmoid Fx:-
+<img width="642" height="437" alt="image" src="https://github.com/user-attachments/assets/44ce3179-44ec-443a-ab6e-c40ab11b46a6" />
+
+
 <img width="728" height="674" alt="image" src="https://github.com/user-attachments/assets/fbf91ea6-c522-46cc-a823-03a2d82db4a9" />
 
 Transformers>> Deep Learning >> Software
